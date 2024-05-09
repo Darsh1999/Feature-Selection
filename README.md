@@ -1,0 +1,2 @@
+# FEATURE SELECTION TECHNIQUES
+## 1. FIlter Bsed Methods
